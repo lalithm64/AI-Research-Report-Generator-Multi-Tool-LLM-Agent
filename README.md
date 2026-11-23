@@ -78,9 +78,5 @@ The response is plain text with a title, an introduction, key insights, and a co
 
 ## Links
 
-- Video demonstration: _add your Google Drive link here_
+- Video demonstration: https://drive.google.com/file/d/11Uovodu4rEGogeffzOUuXksHQRR28n5N/view?us
 - Project report: see `docs/AI_Agent_Workflow_Project_Report.pdf`
-
-## Security note
-
-The workflow JSON in this repo has its API key removed. Never commit real API keys. Add your own keys locally in n8n.
