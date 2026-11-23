@@ -82,4 +82,4 @@ The response is plain text with a title, an introduction, key insights, and a co
 ## Links
 
 - Video demonstration: https://drive.google.com/file/d/11Uovodu4rEGogeffzOUuXksHQRR28n5N/view?us
-- Project report: see `docs/AI_Agent_Workflow_Project_Report.pdf`
+- Project report: see `docs/AI_Agent_Workflow_Project_Report.pdf.pdf`
