@@ -3,8 +3,11 @@
 An AI-powered workflow built on the [n8n](https://n8n.io) automation platform. Send a topic to a webhook, and an AI agent searches the web, reads articles, and returns a structured research report.
 
 **Student:** Lalith Narayana Mogili
+
 **Student ID:** 23085061
+
 **Course:** Powers of AI (Saras Campus)
+
 **Assignment option:** Option 2 - Automated Research Report Generator
 
 ## How it works
